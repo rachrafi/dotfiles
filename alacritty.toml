@@ -1,0 +1,13 @@
+[font]
+size = 18
+
+[font.normal]
+family = "UbuntuMono Nerd Font"
+
+[window]
+decorations = "Full"
+startuo_mode = "Maximized"
+
+[window.padding]
+x = 7
+y = 0
